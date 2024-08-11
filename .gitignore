@@ -8,14 +8,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-src
-public
-images
-package-lock.json
-index.html
-package.json
-vite.config.js
-eslint.config.js
+dist
+dist-ssr
+.local
 
 # Editor directories and files
 .vscode/*

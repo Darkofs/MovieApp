@@ -1,0 +1,13 @@
+.bg-color{
+  background-color: rgb(255, 255, 255);
+}
+.textcard{
+  flex-grow: 1;
+}
+.card{
+  height: 100%;
+}
+.card-img-top{
+  height: 400px;
+  width: 100%;
+}
